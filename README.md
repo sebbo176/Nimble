@@ -1703,7 +1703,7 @@ Nimble to your podfile and add the ```use_frameworks!``` line to enable Swift
 support for CocoaPods.
 
 ```ruby
-platform :ios, '9.0'
+platform :ios, '8.0'
 
 source 'https://github.com/CocoaPods/Specs.git'
 
